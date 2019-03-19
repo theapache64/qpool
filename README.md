@@ -4,7 +4,7 @@ An android library to create a questionnaire/feedback application
 ## Installation
 
 ```groovy
-implementation 'com.theapache64.qpool:qpool:1.0.0'
+implementation 'com.theah64.qpool:qpool:1.0.0'
 ```
 
 ## Usage
