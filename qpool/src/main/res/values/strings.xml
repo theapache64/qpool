@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">qpool</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="label_prev">PREV</string>
+    <string name="label_next">NEXT</string>
+    <string name="label_finish">Finish</string>
+    <string name="label_enter_time">ENTER TIME</string>
+    <string name="action_dismiss">DISMISS</string>
+
+    <string name="option_none">None of the above</string>
+</resources>
